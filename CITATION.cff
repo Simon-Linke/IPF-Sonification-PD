@@ -5,6 +5,6 @@ authors:
   given-names: "Linke"
   orcid: "https://orcid.org/0000-0001-9272-2518"
 title: "Pd-Synthesizer for IPF-Sonification"
-version: 1..0
+version: 1.0.0
 date-released: 2023-06-05
 url: "https://github.com/Simon-Linke/IPF-Sonification-PD"
