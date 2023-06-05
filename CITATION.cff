@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite it as below."
 authors:
-- family-names: "Simon"
-  given-names: "Linke"
+- family-names: "Linke"
+  given-names: "Simon"
   orcid: "https://orcid.org/0000-0001-9272-2518"
 title: "Pd-Synthesizer for IPF-Sonification"
 version: 1.0.0
