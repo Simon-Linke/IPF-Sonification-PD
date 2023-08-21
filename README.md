@@ -2,7 +2,7 @@
 
 This repository provides three different Pure Data scripts showing the IPF's Model-Based Sonification (MBS) capability.
 
-The **first script** *"1_Study.pd"* was used in a user study. Here a keyboard can play different tones or melodies while the modulation wheel (*CC1*) controls the input strength $\alpha$. The sound is produced by five wavetable oscillators (wavetable can be changed in the script by clicking on its name). The Volumen of these Pszilators is modulated by the system state $g_i$, while the derivative of $g$ introduces a phase shift.
+The **first script** *"1_Study.pd"* was used in a user study. Here a keyboard can play different tones or melodies while the modulation wheel (*CC1*) controls the input strength $\alpha$. The sound is produced by five wavetable oscillators (wavetable can be changed in the script by clicking on its name). The volume of these oscillators is modulated by the system state $g_i$, while the derivative of $g$ introduces a phase shift.
 
 
 The **second script** *"2_excitation_beta.pd"* shows how different material parameters $\beta$ influence the dynamic bahviour of the IPF. Again a Keyboard is used for input, but now the pitch is fixed. Instead, different keys (in the range of midi note number 48 to 72) are assigned to different $\beta$, where beta increases (0-0.5) with note number. The velocity is assigned to the input strength $\alpha$ (0.25-0.602) to explore the different dynamical behavior. The sound is produced in the same manner as in the first script, but here, the derivative introduces a frequency modulation rather than a phase shift. 
