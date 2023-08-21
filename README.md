@@ -48,6 +48,6 @@ https://doi.org/10.21785/icad2021.025
 Asendorf, M., Kienzle, M., Ringe, R., Ahmadi, F., Bhowmik, D., Chen,
 J., Hyunh, K., Kleinert, S., Kruesilp, J., Wang, X., Lin, Y.Y., Luo, W.,
 Mirzayousef Jadid, N., Awadin, A., Raval, V., Schade, E.E.S., Jaman, H.,
-Sharma, K., Weber, C., Winkler, H., Ziemer, T. (2011). 
+Sharma, K., Weber, C., Winkler, H., Ziemer, T. (2021). 
 Tiltification/sonic-tilt: First release of sonic tilt. In: https://github.com/Tiltification/sonic-tilt ,
 https://doi.org/10.5281/zenodo.5543983 
