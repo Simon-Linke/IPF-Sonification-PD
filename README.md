@@ -11,7 +11,7 @@ The folder *"DemoSounds_PdSonifikationBeta"* contains demo sounds produced with 
 
 The **third script** *"3_SoundDesign.pd"* is an extended version of the second script. It was designed to explore the sonic capabilities of an IPF model freely. The scaling of the reflection point $\beta$ was slightly changed to increase the occurrence of chaotic results. The five different oscillators are further spread across the stereo panorama. The script is again controlled with a keyboard, where the velocity determines $\alpha$. However, $\beta$ is controlled by the modulation wheel (*CC1*) while different keys change the pitch. The underlying waveform can now be morphed continuously using the midi controller *CC24*. *CC25* also affects $\alpha$ to allow more detailed control (and further allow modification after a key is pressed). Additionally, pressing a sustain pedal (*CC64*) prevents the velocity from affecting $\alpha$ while still preventing the influence of *CC25*.
 
-Finally, the file *ipf-tilt.apk* is a ready-to-install Android app where an IPF model was included in the *Tiltification* sound leveling app (https://github.com/TimZiemer/sonic-tilt-1) [[4](#4),[5](#5)]. Here the angle of the smartphone controls the input strength $\alpha$. The values were scaled in a way that bifurcations and chaotic behavior occur at angles $>5^\circ$.
+Finally, the file *ipf-tilt.apk* is a ready-to-install **Android app** where an IPF model was included in the *Tiltification* sound leveling app (https://github.com/TimZiemer/sonic-tilt-1) [[4](#4),[5](#5)]. Here the angle of the smartphone controls the input strength $\alpha$. The values were scaled in a way that bifurcations and chaotic behavior occur at angles $>5^\circ$.
 
 
 ## References
