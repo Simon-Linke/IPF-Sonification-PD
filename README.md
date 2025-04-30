@@ -13,6 +13,10 @@ The **third script** *"3_SoundDesign.pd"* is an extended version of the second s
 
 Finally, the file *ipf-tilt.apk* is a ready-to-install **Android app** where an IPF model was included in the *Tiltification* sound leveling app (https://github.com/TimZiemer/sonic-tilt-1) [[4](#4),[5](#5)]. Here the angle of the smartphone controls the input strength $\alpha$. The values were scaled in a way that bifurcations and chaotic behavior occur at angles $>5^\circ$.
 
+### Funding
+
+This research was funded under the Program "Innovative Hochschule" (innovative university) by the Federal Ministry of Education and Research (BMBF) of Germany and the City of Hamburg (Grant No. 13IHS232C).
+
 
 ## References
 <a id="1">[1]</a> 
